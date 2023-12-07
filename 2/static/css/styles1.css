@@ -1,0 +1,14 @@
+
+body {
+    padding-top: 50px;
+    font-family: "Lato", sans-serif;
+    background-color: #016116ea;
+    margin: 20px
+}
+.mySlides {display: none}
+
+.w3-button.w3-light-green {
+    background-color: #90ee90; /* Light green color */
+    color: black; /* Text color */
+}
+

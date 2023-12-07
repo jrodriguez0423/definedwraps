@@ -1,0 +1,35 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: rgba(212, 255, 215);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    margin: 0; 
+}
+
+h1 {
+    color: #000000;
+}
+
+.circle-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px; 
+    height: 100px; 
+    border-radius: 50%; 
+    background-color: #4CAF50; 
+    color: white;
+    font-size: 16px; 
+    text-decoration: none; 
+    border: none; 
+    cursor: pointer;
+  }
+  
+  .circle-button:hover {
+    background-color: #45a049;
+  }
+  
