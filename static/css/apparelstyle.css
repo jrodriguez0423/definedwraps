@@ -1,0 +1,23 @@
+#logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: #f8f9fa;
+    }
+ 
+    header {
+    font-weight: bold;
+    }
+ 
+    #clothing-options .card {
+    margin-bottom: 20px;
+    }
+ 
+    #cart {
+    display: none;
+    }
+ 
+    #cartItems {
+    margin-bottom: 20px;
+    }
